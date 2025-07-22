@@ -223,11 +223,3 @@ function Counter() {
   );
 }
 ```
-
----
-
-🧠 **Tip:** Use hooks at the top level of your components, and never call them conditionally.
-
----
-
-Happy coding! 🚀
